@@ -8,7 +8,7 @@
     <version>0.0.1-SNAPSHOT</version>
   </parent>
   <groupId>jpuexia</groupId>
-  <artifactId>main</artifactId>
+  <artifactId>Main</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>main</name>
   <url>http://maven.apache.org</url>

@@ -7,8 +7,8 @@
   </parent>
   <modelVersion>4.0.0</modelVersion>
   <groupId>jpuexia</groupId>
-  <artifactId>Main</artifactId>
-  <name>main</name>
+  <artifactId>contract</artifactId>
+  <name>contract</name>
   <version>0.0.1-SNAPSHOT</version>
   <url>http://maven.apache.org</url>
   <dependencies>
