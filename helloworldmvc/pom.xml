@@ -27,7 +27,7 @@
   	<module>view</module>
   	<module>model</module>
   	<module>contract</module>
-  	<module>Main</module>
+  	<module>main</module>
   </modules>
   <build>
 		<plugins>
